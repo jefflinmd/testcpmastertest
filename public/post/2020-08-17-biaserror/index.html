@@ -27,10 +27,10 @@
   
     
   
-  <meta name="description" content="生物醫學統計 臨床試驗">
+  <meta name="description" content="{誤差} ({}) 是測量值與真實值之間的差異, 誤差有 2 大類: {隨機誤">
 
   
-  <link rel="alternate" hreflang="en-us" href="/tags/clinical-trial/">
+  <link rel="alternate" hreflang="en-us" href="/post/2020-08-17-biaserror/">
 
   
 
@@ -211,14 +211,12 @@
   
 
   
-  <link rel="alternate" href="/tags/clinical-trial/index.xml" type="application/rss+xml" title="Jeff Lin">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hubd7880285348c4660acc9402140a2483_242472_32x32_fill_lanczos_center_2.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hubd7880285348c4660acc9402140a2483_242472_192x192_fill_lanczos_center_2.png">
 
-  <link rel="canonical" href="/tags/clinical-trial/">
+  <link rel="canonical" href="/post/2020-08-17-biaserror/">
 
   
   
@@ -234,18 +232,63 @@
   <meta property="twitter:card" content="summary">
   
   <meta property="og:site_name" content="Jeff Lin">
-  <meta property="og:url" content="/tags/clinical-trial/">
-  <meta property="og:title" content="clinical trial | Jeff Lin">
-  <meta property="og:description" content="生物醫學統計 臨床試驗"><meta property="og:image" content="/images/icon_hubd7880285348c4660acc9402140a2483_242472_512x512_fill_lanczos_center_2.png">
+  <meta property="og:url" content="/post/2020-08-17-biaserror/">
+  <meta property="og:title" content="誤差與偏差 Error and Bias | Jeff Lin">
+  <meta property="og:description" content="{誤差} ({}) 是測量值與真實值之間的差異, 誤差有 2 大類: {隨機誤"><meta property="og:image" content="/images/icon_hubd7880285348c4660acc9402140a2483_242472_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="/images/icon_hubd7880285348c4660acc9402140a2483_242472_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2020-08-17T00:00:00&#43;00:00">
+    
+      <meta property="article:published_time" content="2020-08-17T00:00:00&#43;00:00">
+    
+    <meta property="article:modified_time" content="2020-08-17T12:45:36&#43;08:00">
   
 
   
 
 
+    
 
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "/post/2020-08-17-biaserror/"
+  },
+  "headline": "誤差與偏差 Error and Bias",
+  
+  "datePublished": "2020-08-17T00:00:00Z",
+  "dateModified": "2020-08-17T12:45:36+08:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Jeff Lin"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Jeff Lin",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "/images/icon_hubd7880285348c4660acc9402140a2483_242472_192x192_fill_lanczos_center_2.png"
+    }
+  },
+  "description": "{誤差} ({}) 是測量值與真實值之間的差異, 誤差有 2 大類: {隨機誤"
+}
+</script>
+
+  
 
   
 
@@ -253,10 +296,13 @@
   
 
 
+  
 
 
 
-  <title>clinical trial | Jeff Lin</title>
+
+
+  <title>誤差與偏差 Error and Bias | Jeff Lin</title>
 
 </head>
 
@@ -353,7 +399,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/post"><span>Blog</span></a>
+          <a class="nav-link  active" href="/post"><span>Blog</span></a>
         </li>
 
         
@@ -422,81 +468,333 @@
 </nav>
 
 
-  
-
-
-
-
-
-
-
-
-
-
-
+  <article class="article">
 
   
 
+
+
+
+
+
+
+
+
+
+
+
+  
+
   
   
+  
+<div class="article-container pt-3">
+  <h1>誤差與偏差 Error and Bias</h1>
+
+  
+
   
     
-  
-<div class="universal-wrapper pt-3">
-  <h1>clinical trial</h1>
+
+
+<div class="article-metadata">
 
   
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+          Last updated on
+      
+    
+    Aug 17, 2020
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    2 min read
+  </span>
+  
+
+  
+  
+  
+
+  
+  
+  <span class="middot-divider"></span>
+  <span class="article-categories">
+    <i class="fas fa-folder mr-1"></i><a href="/categories/biostatistics/">biostatistics</a>, <a href="/categories/clinical-trial/">clinical trial</a></span>
+  
+
+</div>
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
 
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  
+  <div class="article-container">
 
-  
-  
-    
-    
-    
-    <div>
-      <h2><a href="/post/2020-08-17-biaserror/" >誤差與偏差 Error and Bias</a></h2>
-      <div class="article-style">
-        
-          {誤差} ({}) 是測量值與真實值之間的差異, 誤差有 2 大類: {隨機誤
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/post/2020-08-17-designtype/" >醫學研究設計分類</a></h2>
-      <div class="article-style">
-        
-          了解研究設計方法, 才能了解研究結論可以推廣至何種程度與下決策
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/talk/2020-08-13-talktest/" >Talktest</a></h2>
-      <div class="article-style">
-        
-          為什麼需要期中分析? 癌症或是心血管疾病 (如心肌梗塞死亡) 的臨
-        
-      </div>
-    </div>
-  
+    <div class="article-style">
+      
 
-  
 
+<p>{誤差}
+({})
+是測量值與真實值之間的差異,
+誤差有 2 大類:
+{隨機誤差}
+({})
+與
+{系統誤差}
+({}).</p>
+<p>{隨機誤差}
+({})
+是指抽樣所造成測量值與真實值之間的差異,
+這種差異也稱抽樣誤差,
+這是由於觀察到的樣本存在個體差異;
+而樣本又未包含母體的全部資訊,
+抽樣誤差在任何研究上是無法避免的,
+隨機誤差與樣本大小有關, 樣本越大,
+從樣本對母體推論的隨機誤差越小.</p>
+<p>{系統誤差}
+({})
+又稱為
+{偏誤}
+或
+{偏差}
+({}),
+測量的結果有系統性地偏離母體的真實值,
+偏差影響測量結果的真實性,
+通常與樣本大小無關, 不能靠統計方法解決,
+偏差可來自
+{選擇偏差}
+({}),
+在確定研究個體或樣本時,
+進入研究的個體與未進入研究的個體,
+在某些特徵上存在差異,
+如選擇研究個體的偏差而造成測量結果的的偏差,
+如倖存者偏差,
+由於調查死亡病例很困難,
+只能調查其倖存者, 由此不能全面反映該疾病的狀況.
+另一常見因調查方法或調查內容不恰當,
+受訪者不願意接受,
+由於無回答者往往可能不同於一般受訪者,
+造成所謂無回答偏差.</p>
+<p>偏差可來自
+{資訊偏差}
+({}),
+常見為
+{回憶偏差}
+({})
+和
+{報告偏差}
+({}),
+由於個體某些特徵不同,
+造成對一些問題的回答不準確而引起偏差.
+例如病例組因曾患過某特定疾病,
+而能夠回憶起過去的暴露危險因子,
+而對照組則常遺忘過去的情況.
+在調查某些敏感性問題時,
+受訪者可能不願真實回答而造成報告偏差.</p>
+<p>偏差也可來自外在因素的干擾, 如
+{干擾偏差}
+({}),
+{干擾因子}
+({},
+{})
+是指特定共變數同時影響危險因子與反應變數,
+研究危險因子與反應變數的因果關係時,
+干擾因子與危險因子與反應變數有一定的關聯,
+由於干擾因子, 影響了危險因子與反應變數關聯強度或因果判斷.</p>
+<p>統計方法中無論研究設計或資料分析是將隨機誤差假設成為一機率分配,
+儘量控制系統誤差, 資訊偏差 與 干擾偏差,
+若無法控制系統誤差,
+也必須研究系統誤差是否有一致的方向性,
+例如結論偏向某一方向,
+系統誤差若有一致的偏向,
+則統計必須嘗試估計此一致的偏向的大小,
+修正結論的正確性,
+統計方法中是無法處理無特定偏向的系統誤差,
+研究者在執行研究時必須隨時控制可能的系統誤差,
+資訊偏差 與 干擾偏差.</p>
+
+    </div>
+
+    
+
+
+
+
+<div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/biostatistics/">biostatistics</a>
+  
+  <a class="badge badge-light" href="/tags/clinical-trial/">clinical trial</a>
+  
 </div>
+
+
+
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=/post/2020-08-17-biaserror/&amp;text=%e8%aa%a4%e5%b7%ae%e8%88%87%e5%81%8f%e5%b7%ae%20Error%20and%20Bias" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=/post/2020-08-17-biaserror/&amp;t=%e8%aa%a4%e5%b7%ae%e8%88%87%e5%81%8f%e5%b7%ae%20Error%20and%20Bias" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=%e8%aa%a4%e5%b7%ae%e8%88%87%e5%81%8f%e5%b7%ae%20Error%20and%20Bias&amp;body=/post/2020-08-17-biaserror/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=/post/2020-08-17-biaserror/&amp;title=%e8%aa%a4%e5%b7%ae%e8%88%87%e5%81%8f%e5%b7%ae%20Error%20and%20Bias" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+  
+    
+    
+    
+      
+    
+    
+    
+    <div class="media author-card content-widget-hr">
+      
+        
+        <img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hu991628417f7acf7d2a6b932223ae9351_2203043_270x270_fill_q90_lanczos_center.jpg" alt="Jeff Lin">
+      
+
+      <div class="media-body">
+        <h5 class="card-title"><a href="/">Jeff Lin</a></h5>
+        <h6 class="card-subtitle">骨科醫師/醫學統計顧問</h6>
+        <p class="card-text">骨科醫師/醫學統計顧問</p>
+        <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/#contact" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+</ul>
+
+      </div>
+    </div>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
 
       
 
