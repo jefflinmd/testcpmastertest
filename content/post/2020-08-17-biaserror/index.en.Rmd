@@ -22,19 +22,19 @@ image:
 projects: []
 ---
 
-{\ctxfbb 誤差}
-({\bf error})
+{ 誤差}
+({ error})
 是測量值與真實值之間的差異,
 誤差有 2 大類:
-{\ctxfbb 隨機誤差}
-({\bf random error})
+{ 隨機誤差}
+({ random error})
 與
-{\ctxfbb 系統誤差}
-({\bf systematic error}).
+{ 系統誤差}
+({ systematic error}).
 
 
-{\ctxfbb 隨機誤差}
-({\bf random error})
+{ 隨機誤差}
+({ random error})
 是指抽樣所造成測量值與真實值之間的差異,
 這種差異也稱抽樣誤差,
 這是由於觀察到的樣本存在個體差異;
@@ -44,19 +44,19 @@ projects: []
 從樣本對母體推論的隨機誤差越小.
 
 
-{\ctxfbb 系統誤差}
-({\bf systematic error})
+{ 系統誤差}
+({ systematic error})
 又稱為
-{\ctxfbb 偏誤}
+{ 偏誤}
 或
-{\ctxfbb 偏差}
-({\bf bias}),
+{ 偏差}
+({ bias}),
 測量的結果有系統性地偏離母體的真實值,
 偏差影響測量結果的真實性,
 通常與樣本大小無關, 不能靠統計方法解決,
 偏差可來自
-{\ctxfbb 選擇偏差}
-({\bf selection bias}),
+{ 選擇偏差}
+({ selection bias}),
 在確定研究個體或樣本時,
 進入研究的個體與未進入研究的個體,
 在某些特徵上存在差異,
@@ -72,14 +72,14 @@ projects: []
 
 
 偏差可來自
-{\ctxfbb 資訊偏差}
-({\bf information bias}),
+{ 資訊偏差}
+({ information bias}),
 常見為
-{\ctxfbb 回憶偏差}
-({\bf recall bias})
+{ 回憶偏差}
+({ recall bias})
 和
-{\ctxfbb 報告偏差}
-({\bf reporting bias}),
+{ 報告偏差}
+({ reporting bias}),
 由於個體某些特徵不同,
 造成對一些問題的回答不準確而引起偏差.
 例如病例組因曾患過某特定疾病,
@@ -90,11 +90,11 @@ projects: []
 
 
 偏差也可來自外在因素的干擾, 如
-{\ctxfbb 干擾偏差}
-({\bf confounding bias}),
-{\ctxfbb 干擾因子}
-({\bf confounding factor},
-{\bf confounder})
+{ 干擾偏差}
+({ confounding bias}),
+{ 干擾因子}
+({ confounding factor},
+{ confounder})
 是指特定共變數同時影響危險因子與反應變數,
 研究危險因子與反應變數的因果關係時,
 干擾因子與危險因子與反應變數有一定的關聯,
