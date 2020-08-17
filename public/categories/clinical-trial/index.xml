@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>clinical trial | Jeff Lin</title>
+    <link>/categories/clinical-trial/</link>
+      <atom:link href="/categories/clinical-trial/index.xml" rel="self" type="application/rss+xml" />
+    <description>clinical trial</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jeff Lin 2020</copyright><lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hubd7880285348c4660acc9402140a2483_242472_512x512_fill_lanczos_center_2.png</url>
+      <title>clinical trial</title>
+      <link>/categories/clinical-trial/</link>
+    </image>
+    
+    <item>
+      <title>臨床試驗期中分析</title>
+      <link>/post/2020-08-15-interim-analysis/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020-08-15-interim-analysis/</guid>
+      <description>
+
+
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;為什麼需要期中分析?
+&lt;ol style=&#34;list-style-type: lower-alpha&#34;&gt;
+&lt;li&gt;癌症或是心血管疾病 (如心肌梗塞死亡) 的臨床試驗需要多年追蹤, 所以法規單位會要求期中分析監測並了解新藥的安全性.&lt;/li&gt;
+&lt;li&gt;監測的結果有三, 繼續進行試驗 (continue as plan), 建議修改臨床試驗 (modify protocol)-增加人數或延長研究時間, 或是停止 (terminate ). 停止試驗常見三個原因, 有非常顯著的效果 (robust efficacious), 或是繼續進行試驗也是徒勞無功 (futility), 也有可能是發現藥物安全性的問題 (dangerous), 上述原因都可能讓試驗提早結束.&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;為什麼期中分析不提供數據?
+DMC 通常不會告知公司詳細的數據, 或許將詳細數據知會 FDA 做相關的最終決定.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Talktest</title>
+      <link>/talk/2020-08-13-talktest/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/2020-08-13-talktest/</guid>
+      <description>
+
+
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;為什麼需要期中分析?
+&lt;ol style=&#34;list-style-type: lower-alpha&#34;&gt;
+&lt;li&gt;癌症或是心血管疾病 (如心肌梗塞死亡) 的臨床試驗需要多年追蹤, 所以法規單位會要求期中分析監測並了解新藥的安全性.&lt;/li&gt;
+&lt;li&gt;監測的結果有三, 繼續進行試驗 (continue as plan), 建議修改臨床試驗 (modify protocol)-增加人數或延長研究時間, 或是停止 (terminate ). 停止試驗常見三個原因, 有非常顯著的效果 (robust efficacious), 或是繼續進行試驗也是徒勞無功 (futility), 也有可能是發現藥物安全性的問題 (dangerous), 上述原因都可能讓試驗提早結束.&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeff Lin</title>
+    <link>/authors/alison/</link>
+      <atom:link href="/authors/alison/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jeff Lin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jeff Lin 2020</copyright>
+    <image>
+      <url>/images/icon_hubd7880285348c4660acc9402140a2483_242472_512x512_fill_lanczos_center_2.png</url>
+      <title>Jeff Lin</title>
+      <link>/authors/alison/</link>
+    </image>
+    
+  </channel>
+</rss>

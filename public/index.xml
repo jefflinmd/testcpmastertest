@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jeff Lin</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jeff Lin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jeff Lin 2020</copyright><lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hubd7880285348c4660acc9402140a2483_242472_512x512_fill_lanczos_center_2.png</url>
+      <title>Jeff Lin</title>
+      <link>/</link>
+    </image>
+    
+    <item>
+      <title>Books</title>
+      <link>/books/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R 統計計算與程式語言</title>
+      <link>/book/rintro/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/book/rintro/</guid>
+      <description>&lt;p&gt;R: Statistical Computing and Programming Language&lt;br&gt;
+R: Medical Statistics / Biostatistics&lt;br&gt;
+R: 基本程式語言與統計計算&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;2019RC01_Intro.pdf&#34;&gt;C01 導論 Introduction&lt;/a&gt; &lt;br&gt;
+
+&lt;a href=&#34;2019RC02_ObjectVector.pdf&#34;&gt;C02 物件 Object&lt;/a&gt; &lt;br&gt;
+
+&lt;a href=&#34;2019RC03_ObjectData.pdf&#34;&gt;C03 資料物件 Data Object&lt;/a&gt;    &lt;br&gt;
+
+&lt;a href=&#34;2019RC04_DataStructure.pdf&#34;&gt;C04 資料結構 Data Structure&lt;/a&gt;     &lt;br&gt;
+
+&lt;a href=&#34;2019RC05_DataBasicInputOutput.pdf&#34;&gt;C05 資料輸入與輸出 Data Input and Output&lt;/a&gt;    &lt;br&gt;
+
+&lt;a href=&#34;2019RC06_FunctionBasic.pdf&#34;&gt;C06 基本函式 Basic Function&lt;/a&gt;   &lt;br&gt;
+
+&lt;a href=&#34;2019RC07_Date.pdf&#34;&gt;C07 日期 Date&lt;/a&gt;    &lt;br&gt;
+
+&lt;a href=&#34;2019RC08_Character.pdf&#34;&gt;C08 字串 String&lt;/a&gt;    &lt;br&gt;
+
+&lt;a href=&#34;2019RC09_GraphicsHigh.pdf&#34;&gt;C09 高階繪圖 High-Level Plotting&lt;/a&gt;     &lt;br&gt;
+
+&lt;a href=&#34;2019RC10_GraphicsLow.pdf&#34;&gt;C10 低階繪圖 Low-Level Plotting&lt;/a&gt;    &lt;br&gt;
+
+&lt;a href=&#34;2019RC11_Programming.pdf&#34;&gt;C11 程式寫作 Programming&lt;/a&gt;    &lt;br&gt;
+
+&lt;a href=&#34;2019RC12_FunctionWriting.pdf&#34;&gt;C12 函式寫作 Function Writing&lt;/a&gt;     &lt;br&gt;
+
+&lt;a href=&#34;2019RC13_MatrixAlgebra.pdf&#34;&gt;C13 矩陣運算 Matrix Algebra&lt;/a&gt;    &lt;br&gt;
+
+&lt;a href=&#34;2019RC14_Factor.pdf&#34;&gt;C14 因子物件 Factor&lt;/a&gt;   &lt;br&gt;
+
+&lt;a href=&#34;2019RC15_DataManagementApply.pdf&#34;&gt;C15 資料處裡 Data Management&lt;/a&gt;   &lt;br&gt;
+
+&lt;a href=&#34;2019RC16_CrossTable.pdf&#34;&gt;C17 列聯表 Cross Tabulation&lt;/a&gt;     &lt;br&gt;
+
+&lt;a href=&#34;2019RC17_StatDescFunction.pdf&#34;&gt;C18 基本統計函式 Basic Statistical Function&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>存活分析</title>
+      <link>/book/survival/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/book/survival/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>臨床試驗期中分析</title>
+      <link>/post/2020-08-15-interim-analysis/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2020-08-15-interim-analysis/</guid>
+      <description>
+
+
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;為什麼需要期中分析?
+&lt;ol style=&#34;list-style-type: lower-alpha&#34;&gt;
+&lt;li&gt;癌症或是心血管疾病 (如心肌梗塞死亡) 的臨床試驗需要多年追蹤, 所以法規單位會要求期中分析監測並了解新藥的安全性.&lt;/li&gt;
+&lt;li&gt;監測的結果有三, 繼續進行試驗 (continue as plan), 建議修改臨床試驗 (modify protocol)-增加人數或延長研究時間, 或是停止 (terminate ). 停止試驗常見三個原因, 有非常顯著的效果 (robust efficacious), 或是繼續進行試驗也是徒勞無功 (futility), 也有可能是發現藥物安全性的問題 (dangerous), 上述原因都可能讓試驗提早結束.&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;li&gt;為什麼期中分析不提供數據?
+DMC 通常不會告知公司詳細的數據, 或許將詳細數據知會 FDA 做相關的最終決定.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>迴歸分析</title>
+      <link>/book/regression/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/book/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>醫學類別資料分析</title>
+      <link>/book/cate/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/book/cate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talktest</title>
+      <link>/talk/2020-08-13-talktest/</link>
+      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/2020-08-13-talktest/</guid>
+      <description>
+
+
+&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
+&lt;li&gt;為什麼需要期中分析?
+&lt;ol style=&#34;list-style-type: lower-alpha&#34;&gt;
+&lt;li&gt;癌症或是心血管疾病 (如心肌梗塞死亡) 的臨床試驗需要多年追蹤, 所以法規單位會要求期中分析監測並了解新藥的安全性.&lt;/li&gt;
+&lt;li&gt;監測的結果有三, 繼續進行試驗 (continue as plan), 建議修改臨床試驗 (modify protocol)-增加人數或延長研究時間, 或是停止 (terminate ). 停止試驗常見三個原因, 有非常顯著的效果 (robust efficacious), 或是繼續進行試驗也是徒勞無功 (futility), 也有可能是發現藥物安全性的問題 (dangerous), 上述原因都可能讓試驗提早結束.&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>/about/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>/resume/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/resume/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talks &amp; Workshops</title>
+      <link>/talks/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LICENSE: CC-BY-SA</title>
+      <link>/license/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>/license/</guid>
+      <description>&lt;p&gt;My 
+&lt;a href=&#34;/post/&#34;&gt;blog posts&lt;/a&gt; are released under a 
+&lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.&lt;/p&gt;
+&lt;center&gt;
+&lt;i class=&#34;fab fa-creative-commons fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-by fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-sa fa-2x&#34;&gt;&lt;/i&gt;
+&lt;/center&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

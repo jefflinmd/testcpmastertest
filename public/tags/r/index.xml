@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R | Jeff Lin</title>
+    <link>/tags/r/</link>
+      <atom:link href="/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <description>R</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jeff Lin 2020</copyright><lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hubd7880285348c4660acc9402140a2483_242472_512x512_fill_lanczos_center_2.png</url>
+      <title>R</title>
+      <link>/tags/r/</link>
+    </image>
+    
+    <item>
+      <title>R 統計計算與程式語言</title>
+      <link>/book/rintro/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/book/rintro/</guid>
+      <description>&lt;p&gt;R: Statistical Computing and Programming Language&lt;br&gt;
+R: Medical Statistics / Biostatistics&lt;br&gt;
+R: 基本程式語言與統計計算&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;2019RC01_Intro.pdf&#34;&gt;C01 導論 Introduction&lt;/a&gt; &lt;br&gt;
+
+&lt;a href=&#34;2019RC02_ObjectVector.pdf&#34;&gt;C02 物件 Object&lt;/a&gt; &lt;br&gt;
+
+&lt;a href=&#34;2019RC03_ObjectData.pdf&#34;&gt;C03 資料物件 Data Object&lt;/a&gt;    &lt;br&gt;
+
+&lt;a href=&#34;2019RC04_DataStructure.pdf&#34;&gt;C04 資料結構 Data Structure&lt;/a&gt;     &lt;br&gt;
+
+&lt;a href=&#34;2019RC05_DataBasicInputOutput.pdf&#34;&gt;C05 資料輸入與輸出 Data Input and Output&lt;/a&gt;    &lt;br&gt;
+
+&lt;a href=&#34;2019RC06_FunctionBasic.pdf&#34;&gt;C06 基本函式 Basic Function&lt;/a&gt;   &lt;br&gt;
+
+&lt;a href=&#34;2019RC07_Date.pdf&#34;&gt;C07 日期 Date&lt;/a&gt;    &lt;br&gt;
+
+&lt;a href=&#34;2019RC08_Character.pdf&#34;&gt;C08 字串 String&lt;/a&gt;    &lt;br&gt;
+
+&lt;a href=&#34;2019RC09_GraphicsHigh.pdf&#34;&gt;C09 高階繪圖 High-Level Plotting&lt;/a&gt;     &lt;br&gt;
+
+&lt;a href=&#34;2019RC10_GraphicsLow.pdf&#34;&gt;C10 低階繪圖 Low-Level Plotting&lt;/a&gt;    &lt;br&gt;
+
+&lt;a href=&#34;2019RC11_Programming.pdf&#34;&gt;C11 程式寫作 Programming&lt;/a&gt;    &lt;br&gt;
+
+&lt;a href=&#34;2019RC12_FunctionWriting.pdf&#34;&gt;C12 函式寫作 Function Writing&lt;/a&gt;     &lt;br&gt;
+
+&lt;a href=&#34;2019RC13_MatrixAlgebra.pdf&#34;&gt;C13 矩陣運算 Matrix Algebra&lt;/a&gt;    &lt;br&gt;
+
+&lt;a href=&#34;2019RC14_Factor.pdf&#34;&gt;C14 因子物件 Factor&lt;/a&gt;   &lt;br&gt;
+
+&lt;a href=&#34;2019RC15_DataManagementApply.pdf&#34;&gt;C15 資料處裡 Data Management&lt;/a&gt;   &lt;br&gt;
+
+&lt;a href=&#34;2019RC16_CrossTable.pdf&#34;&gt;C17 列聯表 Cross Tabulation&lt;/a&gt;     &lt;br&gt;
+
+&lt;a href=&#34;2019RC17_StatDescFunction.pdf&#34;&gt;C18 基本統計函式 Basic Statistical Function&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>存活分析</title>
+      <link>/book/survival/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/book/survival/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>迴歸分析</title>
+      <link>/book/regression/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/book/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>醫學類別資料分析</title>
+      <link>/book/cate/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/book/cate/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
