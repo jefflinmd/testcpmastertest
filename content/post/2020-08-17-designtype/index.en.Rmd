@@ -20,6 +20,14 @@ image:
   focal_point: ''
   preview_only: no
 projects: []
+output: 
+  html_document: 
+    toc: yes
+    number_sections: yes
+    keep_md: yes
+    fig_width: 4
+    fig_height: 3
+    fig_caption: yes
 ---
 
 
@@ -36,12 +44,12 @@ projects: []
 
 醫學研究設計分類若依據研究操作過程分類,
 可分成
-{ 觀察性研究}
-({ observational study})
+**觀察性研究**
+(*observational study*)
 與
-{ 實驗性研究}
-({ experimental study}).
-{ 觀察性研究}
+**實驗性研究**
+(*experimental study*).
+**觀察性研究**
 是研究個體做只進行觀察, 紀錄或測量變數.
 而臨床試驗專指以人為試驗對象的實驗性研究.
 
@@ -51,37 +59,37 @@ projects: []
 
 醫學研究設計分類若依據研究目的之觀點分類,
 可分成
-{ 描述性研究}
-({ descriptive study})
+**描述性研究**
+(*descriptive study*)
 與
-{ 分析性研究}
-({ analytic study}).
+**分析性研究**
+(*analytic study*).
 其實所有研究兩者常常混有這 2 種型式.
 
-{ 描述性研究}
+**描述性研究**
 調查疾病和健康狀況,
 主要內容偏重於描述健康相關因子在母體中分佈的情形,
 其研究結果並不著重在任何疾病與病因間因果關係的推論;
 研究之目的在於建立疾病發生原因的假說 (hypothesis),
 提供衛生醫療照顧之參考數據.
 描述性研究又可分成常見 3 種.
-{ 族群研究}
-({ populatino study})
+**族群研究**
+(*populatino study*)
 使用整個母體資料,
 描述母體某係特徵在同一時期或不同時期, 不同次子群的分佈,
 也有人稱為
-{ 相關研究}
-({ correlation study}),
+**相關研究**
+(*correlation study*),
 但容易與統計分析相關係數的研究混淆.
-{ 案例報告}
-({ case report})
+**案例報告**
+(*case report*)
 與
-{ 案例系列}
-({ case series})
+**案例系列**
+(*case series*)
 都在描述具有某特定疾病個體之特徵,
 案例報告常用來描述一個罕見疾病個體,
 系列案例則描述許多個體的一個疾病.
-{ 分析性研究}
+**分析性研究**
 是藉由適當的分組與比較, 主要內容偏重於檢定疾病與病因間因果關係,
 如病例對照研究, 世代追蹤研究, 臨床試驗等.
 
@@ -89,66 +97,66 @@ projects: []
 
 醫學研究設計分類若依據研究觀察單位與實驗單位的觀點分類,
 可分成
-{ 群聚研究}
-({ group},
-{ ecological},
-{ aggregate},
-{ cluster study})
+**群聚研究**
+(*group**,
+**ecological**,
+**aggregate**,
+**cluster study*)
 與
-{ 個體研究}
-({ individual study}).
-{ 群聚研究}
+**個體研究**
+(*individual study*).
+**群聚研究**
 以人群為最小分析單位的危險因子與疾病資訊,
 而沒有這群人當中每一個人的的相關資訊;
 例如利用社區或國家的資料, 這通常為經常性的摘要統計資料, 隨時可得,
 比較 10 個國家的平均國民所得與這 10 個國家癌症死亡率間的相關性.
-{ 個體研究}
+**個體研究**
 則是以個別個體為研究單位,
 研究個體的特徵與屬性,
 以群聚資料呈現.
 群聚單位與個體單位在研究的基本觀察單位不同, 因此研究的結果可能不會一致,
 透過群聚層級的研究結果, 推論到個體層級卻產生不一致結果,
 而所發生的誤差稱為
-{ 生態謬誤}
-({ ecological fallacy})
+**生態謬誤**
+(*ecological fallacy*)
 或稱為
-{ 群聚謬誤}
-({ aggregative  fallacy}).
+**群聚謬誤**
+(*aggregative  fallacy*).
 反之, 透過個體層級的研究結果, 推論到群聚層級所發生的誤差稱為
-{ 原子謬誤}
-({ atomistic fallacy}).
+**原子謬誤**
+(*atomistic fallacy*).
 
 
 ## 研究時間軸順序的觀點分類
 
 醫學研究設計分類若依據研究時間軸順序的觀點分類,
 可分成
-{ 橫斷性研究}
-({ cross-sectional study})
+**橫斷性研究**
+(*cross-sectional study*)
 與
-{ 縱向研究}
-({ longitudinal study}).
-{ 縱向研究}
+**縱向研究**
+(*longitudinal study*).
+**縱向研究**
 又可分成
-{ 回溯性研究}
-({ restrospective study})
-{ 前膽性研究}
-({ prospective study}),
+**回溯性研究**
+(*restrospective study*)
+**前膽性研究**
+(*prospective study*),
 與
-{ 雙向研究}
-({ ambidirectional study}).
+**雙向研究**
+(*ambidirectional study*).
 回溯性研究與前膽性研究都有有一部分的人暴露在特定危險因子之下,
 另一部分的人沒有暴露在特定危險因子.
 依照有沒有暴露在特定危險因子的人分組,
 又可分成
-{ 同期對照組}
-({ concurrent control}),
+**同期對照組**
+(*concurrent control*),
 即對照組或暴露在特定危險因子分組是在研究開始時間點分組且同時期觀察的,
 或依據追蹤時新發生的病例組個體,
 選取相同世代合適的對照組個體.
 另一種為
-{ 非同期對照組}
-({ non-concurrent control}),
+**非同期對照組**
+(*non-concurrent control*),
 在研究開始時間點, 依據過去發生的病例組個體,
 選取對照組個體,
 或依據過去暴露在特定危險因子而分組.
@@ -158,21 +166,21 @@ projects: []
 
 醫學研究設計分類若依據研究時間長短的觀點分類,
 可分成
-{ 橫斷性研究}
-({ cross-sectional study}),
-{ 調查研究}
-({ survey study})
+**橫斷性研究**
+(*cross-sectional study*),
+**調查研究**
+(*survey study*)
 與
-{ 縱貫研究}
-({ longitudinal study}).
-{ 橫斷性研究}
-({ cross-sectional study})
+**縱貫研究**
+(*longitudinal study*).
+**橫斷性研究**
+(*cross-sectional study*)
 是在一個特定時間點上,
 (或一短暫時間內, 如 1 天, 1 週或 1 月),
 從特定母體或族群中抽樣,
 觀察樣本內每一個人的反應變數或疾病.
-{ 縱貫研究}
-({ longitudinal study}),
+**縱貫研究**
+(*longitudinal study*),
 常常需要一段長期時間去追蹤個體,
 可以調查一個暴露危險因與和多個結果之間的關係,
 縱貫研究在統計分析上,
@@ -182,14 +190,14 @@ projects: []
 縱貫研究主要研究反應變數隨時間增加而改變的量化與趨勢,
 而不只是觀察或統計分析最後的結果.
 縱貫研究可以區分
-{ 年紀效應}
-({ age effect})
+**年紀效應**
+(*age effect*)
 或
-{ 世代效應}
-({ cohort efect}),
-{ 年紀效應}
+**世代效應**
+(*cohort efect*),
+**年紀效應**
 指研究的反應變數隨時間增加而改變,
-{ 世代效應}
+**世代效應**
 指研究的反應變數因不同世代而改變.
 例如, 1950 年 10 歲的身高較矮, 追蹤 10 年,
 在 1960 年 20 歲的身高較高, 這是年紀效應,
@@ -205,22 +213,22 @@ projects: []
 
 醫學研究設計分類若依據研究對象之觀點分類,
 可分成
-{ 調查研究}
-({ survey study}),
-{ 世代研究}
-({ cohort study}),
+**調查研究**
+(*survey study*),
+**世代研究**
+(*cohort study*),
 與
-{ 病例對照研究}
-({ case control study}).
-{ 調查研究}
+**病例對照研究**
+(*case control study*).
+**調查研究**
 是對一個樣本的個體進行觀察,
 為了讓統計分析的結論對母體進行推論有意義,
 通常會先執行
-{ 抽樣},
+**抽樣**,
 也就是從母體中抽取一部份的個體,
 將抽出的個體納入研究中進行觀察.
-{ 世代研究}
-({ cohort study})
+**世代研究**
+(*cohort study*)
 世代研究指對同一群人觀察一段時間,
 通常這一群人依據研究開始時間點,
 是否有暴露在特定危險因子之下或暴露在特定危險因子的差異作為分組,
@@ -228,8 +236,8 @@ projects: []
 追蹤新發生的病例組個體.
 
 
-{ 病例對照研究}
-({ case control study})
+**病例對照研究**
+(*case control study*)
 是在一個特定時間點上, 找出個體是否具有反應變數或疾病,
 先找出一組個體具有反應變數或疾病, 另一組個體無反應變數或疾病,
 然後回溯過去的一段時間, 調查 2 組個體其既往是否暴露在特定危險因子.
