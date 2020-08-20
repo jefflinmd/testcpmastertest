@@ -323,6 +323,14 @@
     </item>
     
     <item>
+      <title>Courses &amp; Talks</title>
+      <link>/courses/</link>
+      <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/courses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>R 統計計算與程式語言</title>
       <link>/book/rintro/</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
