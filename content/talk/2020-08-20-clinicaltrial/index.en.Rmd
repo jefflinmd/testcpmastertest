@@ -1,0 +1,134 @@
+---
+title: 臨床試驗 Clinical Trials
+author: Jeff Lin
+date: '2020-08-20'
+slug: []
+categories:
+  - clinical trial
+  - biostatistics
+  - R 
+tags:
+  - clinical trial
+  - biostatistics
+  - R 
+event: null
+event_url: null
+location: null
+address:
+  street: null
+  city: null
+  region: null
+  postcode: null
+  country: null
+summary: null
+abstract: null
+date_end: '2020-08-20T15:49:52+08:00'
+all_day: no
+publishDate: '2020-08-20T15:49:52+08:00'
+authors: []
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+url_slides: null
+url_code: null
+url_pdf: null
+url_video: null
+slides: ''
+projects: []
+output: 
+  html_document: 
+    fig_width: 4
+    fig_height: 3
+    keep_md: yes
+    number_sections: true
+
+---
+
+臨床試驗課程主要討論討二大主題:
+a) 臨床試驗設計與分析, 著重在統計相關議題.
+b) 基礎醫學與臨床醫學共通的實驗設計與分析, 
+著重在一般生物醫學的實驗設計與資料分析.
+
+### 臨床試驗設計與分析
+* Introduction and Protocol
+* Ethics
+* Study Population and Outcome Measures
+* Study Controls
+* Basic Design
+* Randomization
+* Blinding
+* Sample Size
+* Safety Assessment
+* Quality of Life
+* Recruitment and Retaining of Participants
+* Data Safety Monitoring Committee
+* Interim Analysis
+* Data Analysis
+  + Baseline Assessment  
+  + Analysis Set: ITT and PP
+  + Ineligibility
+  + Nonadherence
+  + Poor Quality Data
+  + Competing Events
+  + Missing Data
+  - Multiple Comparisons
+  + Adjustment of Covariates
+  + Subgroup Analysis
+* Reporting and Interpreting of Results
+* Equivalence and Noninferiority
+* Phase I Design
+* Phase II Design
+* Dose-Finding Design
+
+* Cancer Clinical Trial
+* Diagnostic Devices
+* Biomarker and Translation Medicine
+* Precision Medicine and Targeted Therapy
+* Vaccine Trial
+* Adaptive Design
+
+* Regulatory issues: ICH E9 and ICH E9 (R1)
+
+
+
+
+### 醫學實驗設計與分析 
+* Basic Concepts in Experiments
+  + Experimental Unit and Replications
+  + Randomization
+  + Treatment Design and Experimental Design
+  + Crossed or Nested
+  + Complete or INcomplete
+  + Replications: True or Technical
+  + Data layout or Field 
+  + Fixed Factors and Random Factors
+* CRD (Completely Randomized Designs)
+  + One Way ANOVA
+  + Multiple Testings and Multiple Comparisons
+  + Fixed and Random Factors/Effects
+* CRD   
+  + Two Fixed Factors
+  + Balanced and Unbalanced
+  + Interaction
+  + ANCOVA (Analysis of Covariances)
+* RCBD/CBD (Randomized Complete Block Designs)
+  + Block: Fixed or Random?
+  + RCBD Variations
+  + Replications
+  + Crossed Blocks
+  + LSD (Latin/Eular Square Design)
+  + GLSD (Graceo+Latin Square Design)
+* SPD (Split Plot Design)
+  + CRD on the Whole Plots
+  + RCBD on the Whole Plots
+  + SSPD (Split Split Plot Design)
+  + SBD (Strip Plot Designs, Split Block Design)
+  + Crossover Design
+  + RMD (Repeated Measures Design)
+* FD (Factorial Design)
+* Incomplete Design
+  + BIBD (Balanced Incompete Block Design)
+  + FFD (Fractional Factorial Design)
+  

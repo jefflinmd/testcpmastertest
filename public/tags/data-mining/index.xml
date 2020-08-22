@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data mining | Jeff Lin</title>
+    <link>/tags/data-mining/</link>
+      <atom:link href="/tags/data-mining/index.xml" rel="self" type="application/rss+xml" />
+    <description>data mining</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jeff Lin 2020</copyright><lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hubd7880285348c4660acc9402140a2483_242472_512x512_fill_lanczos_center_2.png</url>
+      <title>data mining</title>
+      <link>/tags/data-mining/</link>
+    </image>
+    
+    <item>
+      <title>大數據分析 機械學習 資料採礦</title>
+      <link>/course/bigdata/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/course/bigdata/</guid>
+      <description>
+
+
+
+</description>
+    </item>
+    
+    <item>
+      <title>大數據分析, 機械學習, 資料採礦</title>
+      <link>/talk/2020-08-20-bigdata/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/2020-08-20-bigdata/</guid>
+      <description>
+
+
+&lt;p&gt;關於大數據分析, 機械學習, 資料採礦等所使用的資料分析方法,
+在統計領域也稱為統計學習,
+統計主要是討論資料分析的方法,
+因此統計學習的入們課程以討論資料分析為重心,
+至於大數據資料庫的管理與存取, 不同演算法的差議,
+不會在本課程討論. 另外, linear regression, logistic regression,
+data visualization 在統計基礎課程已經講授.
+machine learning 與 deep learning 可使用 Python, R, SAS, IBM-SPSS 等軟體.&lt;/p&gt;
+&lt;div id=&#34;大數據分析基本&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;大數據分析基本&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction&lt;/li&gt;
+&lt;li&gt;Descriptive Statistics
+&lt;ul&gt;
+&lt;li&gt;Missing Data&lt;/li&gt;
+&lt;li&gt;Rare Categories&lt;/li&gt;
+&lt;li&gt;Dummy Variables&lt;/li&gt;
+&lt;li&gt;Near-zero Variance&lt;/li&gt;
+&lt;li&gt;Collinearity&lt;/li&gt;
+&lt;li&gt;Data Transformation and Normalization&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Tidy Data&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;big-data-visualization&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Big Data Visualization&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Exploatory Data Analysis&lt;/li&gt;
+&lt;li&gt;R: Basic Graphics&lt;/li&gt;
+&lt;li&gt;R: lattice package&lt;/li&gt;
+&lt;li&gt;R: ggplot2 package&lt;/li&gt;
+&lt;li&gt;Analytic Visualization&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;unsupervised-learning&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Unsupervised Learning&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;PCA (principal Components Analysis)&lt;/li&gt;
+&lt;li&gt;Cluster Analysis&lt;/li&gt;
+&lt;li&gt;Association Analysis&lt;/li&gt;
+&lt;li&gt;Recommendation System&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;supervised-learning&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Supervised Learning&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Predication: Theory and Evaluation&lt;/li&gt;
+&lt;li&gt;Classification: Theory and Evaluation&lt;/li&gt;
+&lt;li&gt;Linear Regression&lt;/li&gt;
+&lt;li&gt;Logistic Regression&lt;/li&gt;
+&lt;li&gt;R: caret package&lt;/li&gt;
+&lt;li&gt;Penalized Regression (L1, L2, Elastic Net)&lt;/li&gt;
+&lt;li&gt;Non-parametric Regression (GAM, LOWESS, Spline)&lt;/li&gt;
+&lt;li&gt;Robust Regression&lt;/li&gt;
+&lt;li&gt;Principal Component Regression (PCR)&lt;/li&gt;
+&lt;li&gt;Partial Least Square Regression (PLSR)&lt;/li&gt;
+&lt;li&gt;Discriminant (LDA, QDA)&lt;/li&gt;
+&lt;li&gt;Naive Bayes Classifier (NB)&lt;/li&gt;
+&lt;li&gt;Regression Tree and Classification Tree (Tree)&lt;/li&gt;
+&lt;li&gt;k-Nearest Neighbor Classification (KNN)&lt;/li&gt;
+&lt;li&gt;Bagging&lt;/li&gt;
+&lt;li&gt;Random Forest (RF)&lt;/li&gt;
+&lt;li&gt;Boosting&lt;/li&gt;
+&lt;li&gt;Support Vector Machines (SVM)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;text-mining&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Text Mining&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;R: tidytext package&lt;/li&gt;
+&lt;li&gt;Sentiment Analysis&lt;/li&gt;
+&lt;li&gt;Word and Document Frequency&lt;/li&gt;
+&lt;li&gt;Relationships Between Words&lt;/li&gt;
+&lt;li&gt;Mining the Corpus&lt;/li&gt;
+&lt;li&gt;Topic Modeling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;deep-learning&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Deep Learning&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Introduction to Neural Network&lt;/li&gt;
+&lt;li&gt;Recurrent Neural Network (RNN) and Elman Neural Networks (ENN)&lt;/li&gt;
+&lt;li&gt;Jordan Neural Networks (JNN)&lt;/li&gt;
+&lt;li&gt;Autoencoder&lt;/li&gt;
+&lt;li&gt;Stacked Autoencoder and Denoising Autoencoder (DA)&lt;/li&gt;
+&lt;li&gt;Restricted Boltzmann Machines (RBM)&lt;/li&gt;
+&lt;li&gt;Deep Belief Networks (DBN)&lt;/li&gt;
+&lt;li&gt;Convolutional Neural Network (CNN)&lt;/li&gt;
+&lt;li&gt;Natural Language Processing (NLP)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -19,16 +19,16 @@
   weight = 25
 
 
+#[[main]]
+#  name = "Courses / Talks"
+#  url = "/courses"
+#  weight = 27
+
+
 [[main]]
-  name = "Courses / Talks"
-  url = "/courses"
-  weight = 27
-
-
-# [[main]]
-#   name = "Talks"
-#   url = "/talks"
-#   weight = 30
+  name = "Talks/Courses"
+  url = "/talks"
+  weight = 30
 
 #[[main]]
 #  name = "Projects"
@@ -45,4 +45,15 @@
  [[main]]
     name = "Resume"
 #    url = "files/jefflincv.pdf"
-    weight = 70
+    weight = 170
+
+[[main]]
+  name = "Categories"
+  url = "/categories"
+  weight = 110
+
+
+[[main]]
+  name = "Tags"
+  url = "/tags"
+  weight = 120

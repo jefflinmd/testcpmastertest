@@ -5,12 +5,124 @@
     <link>/tags/clinical-trial/</link>
       <atom:link href="/tags/clinical-trial/index.xml" rel="self" type="application/rss+xml" />
     <description>clinical trial</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jeff Lin 2020</copyright><lastBuildDate>Mon, 17 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jeff Lin 2020</copyright><lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hubd7880285348c4660acc9402140a2483_242472_512x512_fill_lanczos_center_2.png</url>
       <title>clinical trial</title>
       <link>/tags/clinical-trial/</link>
     </image>
+    
+    <item>
+      <title>臨床試驗 Clinical Trials</title>
+      <link>/talk/2020-08-20-clinicaltrial/</link>
+      <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/2020-08-20-clinicaltrial/</guid>
+      <description>
+
+
+&lt;p&gt;臨床試驗課程主要討論討二大主題:
+a) 臨床試驗設計與分析, 著重在統計相關議題.
+b) 基礎醫學與臨床醫學共通的實驗設計與分析,
+著重在一般生物醫學的實驗設計與資料分析.&lt;/p&gt;
+&lt;div id=&#34;臨床試驗設計與分析&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;臨床試驗設計與分析&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Introduction and Protocol&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Ethics&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Study Population and Outcome Measures&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Study Controls&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Basic Design&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Randomization&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Blinding&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Sample Size&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Safety Assessment&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Quality of Life&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Recruitment and Retaining of Participants&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Data Safety Monitoring Committee&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Interim Analysis&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Data Analysis&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Baseline Assessment&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;Analysis Set: ITT and PP&lt;/li&gt;
+&lt;li&gt;Ineligibility&lt;/li&gt;
+&lt;li&gt;Nonadherence&lt;/li&gt;
+&lt;li&gt;Poor Quality Data&lt;/li&gt;
+&lt;li&gt;Competing Events&lt;/li&gt;
+&lt;li&gt;Missing Data&lt;/li&gt;
+&lt;li&gt;Multiple Comparisons&lt;/li&gt;
+&lt;li&gt;Adjustment of Covariates&lt;/li&gt;
+&lt;li&gt;Subgroup Analysis&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Reporting and Interpreting of Results&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Equivalence and Noninferiority&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Phase I Design&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Phase II Design&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Dose-Finding Design&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Cancer Clinical Trial&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Diagnostic Devices&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Biomarker and Translation Medicine&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Precision Medicine and Targeted Therapy&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Vaccine Trial&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Adaptive Design&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;Regulatory issues: ICH E9 and ICH E9 (R1)&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;div id=&#34;醫學實驗設計與分析&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;醫學實驗設計與分析&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Basic Concepts in Experiments
+&lt;ul&gt;
+&lt;li&gt;Experimental Unit and Replications&lt;/li&gt;
+&lt;li&gt;Randomization&lt;/li&gt;
+&lt;li&gt;Treatment Design and Experimental Design&lt;/li&gt;
+&lt;li&gt;Crossed or Nested&lt;/li&gt;
+&lt;li&gt;Complete or INcomplete&lt;/li&gt;
+&lt;li&gt;Replications: True or Technical&lt;/li&gt;
+&lt;li&gt;Data layout or Field&lt;/li&gt;
+&lt;li&gt;Fixed Factors and Random Factors&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;CRD (Completely Randomized Designs)
+&lt;ul&gt;
+&lt;li&gt;One Way ANOVA&lt;/li&gt;
+&lt;li&gt;Multiple Testings and Multiple Comparisons&lt;/li&gt;
+&lt;li&gt;Fixed and Random Factors/Effects&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;CRD
+&lt;ul&gt;
+&lt;li&gt;Two Fixed Factors&lt;/li&gt;
+&lt;li&gt;Balanced and Unbalanced&lt;/li&gt;
+&lt;li&gt;Interaction&lt;/li&gt;
+&lt;li&gt;ANCOVA (Analysis of Covariances)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;RCBD/CBD (Randomized Complete Block Designs)
+&lt;ul&gt;
+&lt;li&gt;Block: Fixed or Random?&lt;/li&gt;
+&lt;li&gt;RCBD Variations&lt;/li&gt;
+&lt;li&gt;Replications&lt;/li&gt;
+&lt;li&gt;Crossed Blocks&lt;/li&gt;
+&lt;li&gt;LSD (Latin/Eular Square Design)&lt;/li&gt;
+&lt;li&gt;GLSD (Graceo+Latin Square Design)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;SPD (Split Plot Design)
+&lt;ul&gt;
+&lt;li&gt;CRD on the Whole Plots&lt;/li&gt;
+&lt;li&gt;RCBD on the Whole Plots&lt;/li&gt;
+&lt;li&gt;SSPD (Split Split Plot Design)&lt;/li&gt;
+&lt;li&gt;SBD (Strip Plot Designs, Split Block Design)&lt;/li&gt;
+&lt;li&gt;Crossover Design&lt;/li&gt;
+&lt;li&gt;RMD (Repeated Measures Design)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;FD (Factorial Design)&lt;/li&gt;
+&lt;li&gt;Incomplete Design
+&lt;ul&gt;
+&lt;li&gt;BIBD (Balanced Incompete Block Design)&lt;/li&gt;
+&lt;li&gt;FFD (Fractional Factorial Design)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</description>
+    </item>
     
     <item>
       <title>誤差與偏差 Error and Bias</title>
@@ -311,24 +423,6 @@
 先找出一組個體具有反應變數或疾病, 另一組個體無反應變數或疾病,
 然後回溯過去的一段時間, 調查 2 組個體其既往是否暴露在特定危險因子.&lt;/p&gt;
 &lt;/div&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Talktest</title>
-      <link>/talk/2020-08-13-talktest/</link>
-      <pubDate>Thu, 13 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/talk/2020-08-13-talktest/</guid>
-      <description>
-
-
-&lt;ol style=&#34;list-style-type: decimal&#34;&gt;
-&lt;li&gt;為什麼需要期中分析?
-&lt;ol style=&#34;list-style-type: lower-alpha&#34;&gt;
-&lt;li&gt;癌症或是心血管疾病 (如心肌梗塞死亡) 的臨床試驗需要多年追蹤, 所以法規單位會要求期中分析監測並了解新藥的安全性.&lt;/li&gt;
-&lt;li&gt;監測的結果有三, 繼續進行試驗 (continue as plan), 建議修改臨床試驗 (modify protocol)-增加人數或延長研究時間, 或是停止 (terminate ). 停止試驗常見三個原因, 有非常顯著的效果 (robust efficacious), 或是繼續進行試驗也是徒勞無功 (futility), 也有可能是發現藥物安全性的問題 (dangerous), 上述原因都可能讓試驗提早結束.&lt;/li&gt;
-&lt;/ol&gt;&lt;/li&gt;
-&lt;/ol&gt;
 </description>
     </item>
     
