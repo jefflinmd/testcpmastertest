@@ -68,7 +68,7 @@ machine learning 與 deep learning 可使用 Python, R, SAS, IBM-SPSS 等軟體.
   + ggplot2, lattice
   + caret, tidymodels, mlr3
 * Python: 
-  + Jupyter notebooks
+  + Jupyter
   + NumPy, SciPy, Pandas
   + Matplotlib, Seaborn
   + Scikit-learn
