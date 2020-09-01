@@ -61,17 +61,29 @@ output:
 data visualization 在統計基礎課程已經講授.
 machine learning 與 deep learning 可使用 Python, R, SAS, IBM-SPSS 等軟體.
 
+### Softwares
+* R: caret, tidymodels, mlr3
+* Python: Scikit
+
 
 ### 大數據分析基本
 * Introduction
-* Descriptive Statistics
-  + Missing Data
-  + Rare Categories
-  + Dummy Variables
-  + Near-zero Variance
-  + Collinearity
-  + Data Transformation and Normalization
 * Tidy Data  
+* Data Preprocessing
+  + Descriptive Statistics
+  + Missing Data
+  + Categorical Variables
+  + Dummy Variables
+    + Combine Levels
+    + Binning Predictors
+  + Continuous Variables  
+    + Near-zero Variance
+    + Collinearity
+    + Linear Dependencies
+    + Outliers
+  + Data Transformations
+  + Putting It All Together
+
 
 ###  Big Data Visualization
 * Exploatory Data Analysis 
@@ -84,7 +96,7 @@ machine learning 與 deep learning 可使用 Python, R, SAS, IBM-SPSS 等軟體.
 ### Unsupervised Learning
 * PCA (principal Components Analysis)
 * Cluster Analysis
-* Association Analysis
+* Basket Analysis and Association Analysis
 * Recommendation System
 
 
@@ -93,27 +105,26 @@ machine learning 與 deep learning 可使用 Python, R, SAS, IBM-SPSS 等軟體.
 * Classification: Theory and Evaluation
 * Linear Regression
 * Logistic Regression
-* R: caret package
 * Penalized Regression (L1, L2, Elastic Net)
-* Non-parametric Regression (GAM, LOWESS, Spline)
+* Non-parametric Regression (LOWESS, Spline, GAM)
 * Robust Regression
 * Principal Component Regression (PCR)
 * Partial Least Square Regression (PLSR)
 * Discriminant  (LDA, QDA)
 * Naive Bayes Classifier (NB)
-* Regression Tree and Classification Tree (Tree)
 * k-Nearest Neighbor Classification (KNN)
+* Regression Tree and Classification Tree (Tree)
+* Support Vector Machines (SVM)
 * Bagging
 * Random Forest (RF)
 * Boosting
-* Support Vector Machines (SVM)
 
 ### Text Mining
 * R: tidytext package
-* Sentiment Analysis
 * Word and Document Frequency
 * Relationships Between Words
 * Mining the Corpus
+* Sentiment Analysis
 * Topic Modeling
 
 

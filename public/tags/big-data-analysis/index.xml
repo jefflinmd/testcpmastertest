@@ -40,20 +40,39 @@
 不會在本課程討論. 另外, linear regression, logistic regression,
 data visualization 在統計基礎課程已經講授.
 machine learning 與 deep learning 可使用 Python, R, SAS, IBM-SPSS 等軟體.&lt;/p&gt;
+&lt;div id=&#34;softwares&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Softwares&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;R: caret, tidymodels, mlr3&lt;/li&gt;
+&lt;li&gt;Python: Scikit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 &lt;div id=&#34;大數據分析基本&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;大數據分析基本&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;Introduction&lt;/li&gt;
-&lt;li&gt;Descriptive Statistics
+&lt;li&gt;Tidy Data&lt;br /&gt;
+&lt;/li&gt;
+&lt;li&gt;Data Preprocessing
 &lt;ul&gt;
+&lt;li&gt;Descriptive Statistics&lt;/li&gt;
 &lt;li&gt;Missing Data&lt;/li&gt;
-&lt;li&gt;Rare Categories&lt;/li&gt;
-&lt;li&gt;Dummy Variables&lt;/li&gt;
+&lt;li&gt;Categorical Variables&lt;/li&gt;
+&lt;li&gt;Dummy Variables
+&lt;ul&gt;
+&lt;li&gt;Combine Levels&lt;/li&gt;
+&lt;li&gt;Binning Predictors&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Continuous Variables
+&lt;ul&gt;
 &lt;li&gt;Near-zero Variance&lt;/li&gt;
 &lt;li&gt;Collinearity&lt;/li&gt;
-&lt;li&gt;Data Transformation and Normalization&lt;/li&gt;
+&lt;li&gt;Linear Dependencies&lt;/li&gt;
+&lt;li&gt;Outliers&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;Tidy Data&lt;/li&gt;
+&lt;li&gt;Data Transformations&lt;/li&gt;
+&lt;li&gt;Putting It All Together&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div id=&#34;big-data-visualization&#34; class=&#34;section level3&#34;&gt;
@@ -71,7 +90,7 @@ machine learning 與 deep learning 可使用 Python, R, SAS, IBM-SPSS 等軟體.
 &lt;ul&gt;
 &lt;li&gt;PCA (principal Components Analysis)&lt;/li&gt;
 &lt;li&gt;Cluster Analysis&lt;/li&gt;
-&lt;li&gt;Association Analysis&lt;/li&gt;
+&lt;li&gt;Basket Analysis and Association Analysis&lt;/li&gt;
 &lt;li&gt;Recommendation System&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
@@ -82,30 +101,29 @@ machine learning 與 deep learning 可使用 Python, R, SAS, IBM-SPSS 等軟體.
 &lt;li&gt;Classification: Theory and Evaluation&lt;/li&gt;
 &lt;li&gt;Linear Regression&lt;/li&gt;
 &lt;li&gt;Logistic Regression&lt;/li&gt;
-&lt;li&gt;R: caret package&lt;/li&gt;
 &lt;li&gt;Penalized Regression (L1, L2, Elastic Net)&lt;/li&gt;
-&lt;li&gt;Non-parametric Regression (GAM, LOWESS, Spline)&lt;/li&gt;
+&lt;li&gt;Non-parametric Regression (LOWESS, Spline, GAM)&lt;/li&gt;
 &lt;li&gt;Robust Regression&lt;/li&gt;
 &lt;li&gt;Principal Component Regression (PCR)&lt;/li&gt;
 &lt;li&gt;Partial Least Square Regression (PLSR)&lt;/li&gt;
 &lt;li&gt;Discriminant (LDA, QDA)&lt;/li&gt;
 &lt;li&gt;Naive Bayes Classifier (NB)&lt;/li&gt;
-&lt;li&gt;Regression Tree and Classification Tree (Tree)&lt;/li&gt;
 &lt;li&gt;k-Nearest Neighbor Classification (KNN)&lt;/li&gt;
+&lt;li&gt;Regression Tree and Classification Tree (Tree)&lt;/li&gt;
+&lt;li&gt;Support Vector Machines (SVM)&lt;/li&gt;
 &lt;li&gt;Bagging&lt;/li&gt;
 &lt;li&gt;Random Forest (RF)&lt;/li&gt;
 &lt;li&gt;Boosting&lt;/li&gt;
-&lt;li&gt;Support Vector Machines (SVM)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div id=&#34;text-mining&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Text Mining&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;R: tidytext package&lt;/li&gt;
-&lt;li&gt;Sentiment Analysis&lt;/li&gt;
 &lt;li&gt;Word and Document Frequency&lt;/li&gt;
 &lt;li&gt;Relationships Between Words&lt;/li&gt;
 &lt;li&gt;Mining the Corpus&lt;/li&gt;
+&lt;li&gt;Sentiment Analysis&lt;/li&gt;
 &lt;li&gt;Topic Modeling&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
