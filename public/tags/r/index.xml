@@ -18,6 +18,7 @@
       <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
       <guid>/talk/2020-08-20-bigdata/</guid>
       <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;關於大數據分析, 機械學習, 資料採礦等所使用的資料分析方法,
@@ -151,6 +152,7 @@ machine learning 與 deep learning 可使用 Python, R, SAS, IBM-SPSS 等軟體.
       <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
       <guid>/talk/2020-08-20-clinicaltrial/</guid>
       <description>
+&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;臨床試驗課程主要討論討二大主題:
@@ -296,9 +298,9 @@ R: 基本程式語言與醫學統計&lt;/p&gt;
 
 &lt;a href=&#34;2019RC15_DataManagementApply.pdf&#34;&gt;C15 資料處裡 Data Management&lt;/a&gt;   &lt;br&gt;
 
-&lt;a href=&#34;2019RC16_CrossTable.pdf&#34;&gt;C17 列聯表 Cross Tabulation&lt;/a&gt;     &lt;br&gt;
+&lt;a href=&#34;2019RC16_CrossTable.pdf&#34;&gt;C16 列聯表 Cross Tabulation&lt;/a&gt;     &lt;br&gt;
 
-&lt;a href=&#34;2019RC17_StatDescFunction.pdf&#34;&gt;C18 基本統計函式 Basic Statistical Function&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;2019RC17_StatDescFunction.pdf&#34;&gt;C17 基本統計函式 Basic Statistical Function&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

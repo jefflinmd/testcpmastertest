@@ -49,7 +49,7 @@ R: 基本程式語言與醫學統計
 [C13 矩陣運算 Matrix Algebra](2019RC13_MatrixAlgebra.pdf)       
 [C14 因子物件 Factor](2019RC14_Factor.pdf)      
 [C15 資料處裡 Data Management](2019RC15_DataManagementApply.pdf)      
-[C17 列聯表 Cross Tabulation](2019RC16_CrossTable.pdf)        
-[C18 基本統計函式 Basic Statistical Function](2019RC17_StatDescFunction.pdf)       
+[C16 列聯表 Cross Tabulation](2019RC16_CrossTable.pdf)        
+[C17 基本統計函式 Basic Statistical Function](2019RC17_StatDescFunction.pdf)       
 
 
