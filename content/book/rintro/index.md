@@ -5,11 +5,11 @@ image:
 #  caption: '[Photo by Calum Lewis on Unsplash](https://unsplash.com/photos/rkT_TG5NKF8)'
   caption: '[](featured.jpg)'
   focal_point: Smart
-summary: R 統計計算與程式語言 
+summary: R 程式語言與醫學統計
 tags:
 - R
 - software
-title: R 統計計算與程式語言 
+title: R 程式語言與醫學統計 
 #links:
 #- icon: door-open
 #  icon_pack: fas
@@ -32,7 +32,7 @@ title: R 統計計算與程式語言
 
 R: Statistical Computing and Programming Language   
 R: Medical Statistics / Biostatistics   
-R: 基本程式語言與統計計算   
+R: 基本程式語言與醫學統計
 
 [C01 導論 Introduction](2019RC01_Intro.pdf)    
 [C02 物件 Object](2019RC02_ObjectVector.pdf)    
