@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>big data analysis | Jeff Lin</title>
-    <link>/categories/big-data-analysis/</link>
-      <atom:link href="/categories/big-data-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jefflinmd.com/categories/big-data-analysis/</link>
+      <atom:link href="https://jefflinmd.com/categories/big-data-analysis/index.xml" rel="self" type="application/rss+xml" />
     <description>big data analysis</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jeff Lin 2020</copyright><lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jeff Lin 2021</copyright><lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hubd7880285348c4660acc9402140a2483_242472_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jefflinmd.com/images/icon_hubd7880285348c4660acc9402140a2483_242472_512x512_fill_lanczos_center_2.png</url>
       <title>big data analysis</title>
-      <link>/categories/big-data-analysis/</link>
+      <link>https://jefflinmd.com/categories/big-data-analysis/</link>
     </image>
     
     <item>
       <title>大數據分析 機械學習 資料採礦</title>
-      <link>/course/bigdata/</link>
+      <link>https://jefflinmd.com/course/bigdata/</link>
       <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/course/bigdata/</guid>
+      <guid>https://jefflinmd.com/course/bigdata/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://jefflinmd.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 </description>
@@ -26,11 +26,11 @@
     
     <item>
       <title>大數據分析, 機械學習, 資料採礦</title>
-      <link>/talk/2020-08-20-bigdata/</link>
+      <link>https://jefflinmd.com/talk/2020-08-20-bigdata/</link>
       <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/talk/2020-08-20-bigdata/</guid>
+      <guid>https://jefflinmd.com/talk/2020-08-20-bigdata/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://jefflinmd.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;關於大數據分析, 機械學習, 資料採礦等所使用的資料分析方法,

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog | Jeff Lin</title>
-    <link>/post/</link>
-      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jefflinmd.com/post/</link>
+      <atom:link href="https://jefflinmd.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Blog</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jeff Lin 2020</copyright><lastBuildDate>Mon, 17 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jeff Lin 2021</copyright><lastBuildDate>Mon, 17 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hubd7880285348c4660acc9402140a2483_242472_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jefflinmd.com/images/icon_hubd7880285348c4660acc9402140a2483_242472_512x512_fill_lanczos_center_2.png</url>
       <title>Blog</title>
-      <link>/post/</link>
+      <link>https://jefflinmd.com/post/</link>
     </image>
     
     <item>
       <title>誤差與偏差 Error and Bias</title>
-      <link>/post/2020-08-17-biaserror/</link>
+      <link>https://jefflinmd.com/post/2020-08-17-biaserror/</link>
       <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/post/2020-08-17-biaserror/</guid>
+      <guid>https://jefflinmd.com/post/2020-08-17-biaserror/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://jefflinmd.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;&lt;strong&gt;誤差&lt;/strong&gt;
@@ -105,11 +105,11 @@
     
     <item>
       <title>醫學研究設計分類</title>
-      <link>/post/2020-08-17-designtype/</link>
+      <link>https://jefflinmd.com/post/2020-08-17-designtype/</link>
       <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/post/2020-08-17-designtype/</guid>
+      <guid>https://jefflinmd.com/post/2020-08-17-designtype/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://jefflinmd.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;了解研究設計方法, 才能了解研究結論可以推廣至何種程度與下決策.

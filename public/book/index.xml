@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Books | Jeff Lin</title>
-    <link>/book/</link>
-      <atom:link href="/book/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jefflinmd.com/book/</link>
+      <atom:link href="https://jefflinmd.com/book/index.xml" rel="self" type="application/rss+xml" />
     <description>Books</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jeff Lin 2020</copyright><lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jeff Lin 2021</copyright><lastBuildDate>Sat, 15 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hubd7880285348c4660acc9402140a2483_242472_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jefflinmd.com/images/icon_hubd7880285348c4660acc9402140a2483_242472_512x512_fill_lanczos_center_2.png</url>
       <title>Books</title>
-      <link>/book/</link>
+      <link>https://jefflinmd.com/book/</link>
     </image>
     
     <item>
       <title>R 程式語言與醫學統計</title>
-      <link>/book/rintro/</link>
+      <link>https://jefflinmd.com/book/rintro/</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/book/rintro/</guid>
+      <guid>https://jefflinmd.com/book/rintro/</guid>
       <description>&lt;p&gt;R: Statistical Computing and Programming Language&lt;br&gt;
 R: Medical Statistics / Biostatistics&lt;br&gt;
 R: 基本程式語言與醫學統計&lt;/p&gt;
@@ -59,25 +59,25 @@ R: 基本程式語言與醫學統計&lt;/p&gt;
     
     <item>
       <title>存活分析</title>
-      <link>/book/survival/</link>
+      <link>https://jefflinmd.com/book/survival/</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/book/survival/</guid>
+      <guid>https://jefflinmd.com/book/survival/</guid>
       <description></description>
     </item>
     
     <item>
       <title>迴歸分析</title>
-      <link>/book/regression/</link>
+      <link>https://jefflinmd.com/book/regression/</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/book/regression/</guid>
+      <guid>https://jefflinmd.com/book/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>醫學類別資料分析</title>
-      <link>/book/cate/</link>
+      <link>https://jefflinmd.com/book/cate/</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/book/cate/</guid>
+      <guid>https://jefflinmd.com/book/cate/</guid>
       <description></description>
     </item>
     

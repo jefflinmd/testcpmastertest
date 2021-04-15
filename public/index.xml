@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jeff Lin</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://jefflinmd.com/</link>
+      <atom:link href="https://jefflinmd.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Jeff Lin</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jeff Lin 2020</copyright><lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jeff Lin 2021</copyright><lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/images/icon_hubd7880285348c4660acc9402140a2483_242472_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jefflinmd.com/images/icon_hubd7880285348c4660acc9402140a2483_242472_512x512_fill_lanczos_center_2.png</url>
       <title>Jeff Lin</title>
-      <link>/</link>
+      <link>https://jefflinmd.com/</link>
     </image>
     
     <item>
       <title>大數據分析 機械學習 資料採礦</title>
-      <link>/course/bigdata/</link>
+      <link>https://jefflinmd.com/course/bigdata/</link>
       <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/course/bigdata/</guid>
+      <guid>https://jefflinmd.com/course/bigdata/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://jefflinmd.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 </description>
@@ -26,11 +26,11 @@
     
     <item>
       <title>大數據分析, 機械學習, 資料採礦</title>
-      <link>/talk/2020-08-20-bigdata/</link>
+      <link>https://jefflinmd.com/talk/2020-08-20-bigdata/</link>
       <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/talk/2020-08-20-bigdata/</guid>
+      <guid>https://jefflinmd.com/talk/2020-08-20-bigdata/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://jefflinmd.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;關於大數據分析, 機械學習, 資料採礦等所使用的資料分析方法,
@@ -160,11 +160,11 @@ machine learning 與 deep learning 可使用 Python, R, SAS, IBM-SPSS 等軟體.
     
     <item>
       <title>臨床試驗 Clinical Trials</title>
-      <link>/talk/2020-08-20-clinicaltrial/</link>
+      <link>https://jefflinmd.com/talk/2020-08-20-clinicaltrial/</link>
       <pubDate>Thu, 20 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/talk/2020-08-20-clinicaltrial/</guid>
+      <guid>https://jefflinmd.com/talk/2020-08-20-clinicaltrial/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://jefflinmd.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;臨床試驗課程主要討論討二大主題:
@@ -273,11 +273,11 @@ b) 基礎醫學與臨床醫學共通的實驗設計與分析,
     
     <item>
       <title>誤差與偏差 Error and Bias</title>
-      <link>/post/2020-08-17-biaserror/</link>
+      <link>https://jefflinmd.com/post/2020-08-17-biaserror/</link>
       <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/post/2020-08-17-biaserror/</guid>
+      <guid>https://jefflinmd.com/post/2020-08-17-biaserror/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://jefflinmd.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;&lt;strong&gt;誤差&lt;/strong&gt;
@@ -364,11 +364,11 @@ b) 基礎醫學與臨床醫學共通的實驗設計與分析,
     
     <item>
       <title>醫學研究設計分類</title>
-      <link>/post/2020-08-17-designtype/</link>
+      <link>https://jefflinmd.com/post/2020-08-17-designtype/</link>
       <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/post/2020-08-17-designtype/</guid>
+      <guid>https://jefflinmd.com/post/2020-08-17-designtype/</guid>
       <description>
-&lt;script src=&#34;/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
+&lt;script src=&#34;https://jefflinmd.com/rmarkdown-libs/header-attrs/header-attrs.js&#34;&gt;&lt;/script&gt;
 
 
 &lt;p&gt;了解研究設計方法, 才能了解研究結論可以推廣至何種程度與下決策.
@@ -577,25 +577,25 @@ b) 基礎醫學與臨床醫學共通的實驗設計與分析,
     
     <item>
       <title>Books</title>
-      <link>/books/</link>
+      <link>https://jefflinmd.com/books/</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/books/</guid>
+      <guid>https://jefflinmd.com/books/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Courses &amp; Talks</title>
-      <link>/courses/</link>
+      <link>https://jefflinmd.com/courses/</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/courses/</guid>
+      <guid>https://jefflinmd.com/courses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R 程式語言與醫學統計</title>
-      <link>/book/rintro/</link>
+      <link>https://jefflinmd.com/book/rintro/</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/book/rintro/</guid>
+      <guid>https://jefflinmd.com/book/rintro/</guid>
       <description>&lt;p&gt;R: Statistical Computing and Programming Language&lt;br&gt;
 R: Medical Statistics / Biostatistics&lt;br&gt;
 R: 基本程式語言與醫學統計&lt;/p&gt;
@@ -638,67 +638,67 @@ R: 基本程式語言與醫學統計&lt;/p&gt;
     
     <item>
       <title>存活分析</title>
-      <link>/book/survival/</link>
+      <link>https://jefflinmd.com/book/survival/</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/book/survival/</guid>
+      <guid>https://jefflinmd.com/book/survival/</guid>
       <description></description>
     </item>
     
     <item>
       <title>迴歸分析</title>
-      <link>/book/regression/</link>
+      <link>https://jefflinmd.com/book/regression/</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/book/regression/</guid>
+      <guid>https://jefflinmd.com/book/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>醫學類別資料分析</title>
-      <link>/book/cate/</link>
+      <link>https://jefflinmd.com/book/cate/</link>
       <pubDate>Sat, 15 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>/book/cate/</guid>
+      <guid>https://jefflinmd.com/book/cate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>/projects/</link>
+      <link>https://jefflinmd.com/projects/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/projects/</guid>
+      <guid>https://jefflinmd.com/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resume</title>
-      <link>/about/</link>
+      <link>https://jefflinmd.com/about/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/about/</guid>
+      <guid>https://jefflinmd.com/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Resume</title>
-      <link>/resume/</link>
+      <link>https://jefflinmd.com/resume/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/resume/</guid>
+      <guid>https://jefflinmd.com/resume/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Talks &amp; Courses</title>
-      <link>/talks/</link>
+      <link>https://jefflinmd.com/talks/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/talks/</guid>
+      <guid>https://jefflinmd.com/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LICENSE: CC-BY-SA</title>
-      <link>/license/</link>
+      <link>https://jefflinmd.com/license/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/license/</guid>
+      <guid>https://jefflinmd.com/license/</guid>
       <description>&lt;p&gt;My 
-&lt;a href=&#34;/post/&#34;&gt;blog posts&lt;/a&gt; are released under a 
+&lt;a href=&#34;https://jefflinmd.com/post/&#34;&gt;blog posts&lt;/a&gt; are released under a 
 &lt;a href=&#34;http://creativecommons.org/licenses/by-sa/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Creative Commons Attribution-ShareAlike 4.0 International License&lt;/a&gt;.&lt;/p&gt;
 &lt;center&gt;
 &lt;i class=&#34;fab fa-creative-commons fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-by fa-2x&#34;&gt;&lt;/i&gt;&lt;i class=&#34;fab fa-creative-commons-sa fa-2x&#34;&gt;&lt;/i&gt;
