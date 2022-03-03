@@ -1,215 +1,132 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
-  <url>
-    <loc>https://jefflinmd.com/talk/</loc>
-    <lastmod>2020-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jefflinmd.com/tags/big-data-analysis/</loc>
-    <lastmod>2020-08-20T12:14:21+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jefflinmd.com/categories/big-data-analysis/</loc>
-    <lastmod>2020-08-20T12:14:21+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jefflinmd.com/tags/biostatistics/</loc>
-    <lastmod>2020-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jefflinmd.com/categories/biostatistics/</loc>
-    <lastmod>2020-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jefflinmd.com/categories/</loc>
-    <lastmod>2020-08-20T12:14:21+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jefflinmd.com/tags/clinical-trial/</loc>
-    <lastmod>2020-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jefflinmd.com/categories/clinical-trial/</loc>
-    <lastmod>2020-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jefflinmd.com/course/</loc>
-    <lastmod>2020-08-20T12:14:21+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jefflinmd.com/tags/data-mining/</loc>
-    <lastmod>2020-08-20T12:14:21+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jefflinmd.com/categories/data-mining/</loc>
-    <lastmod>2020-08-20T12:14:21+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jefflinmd.com/tags/deep-learning/</loc>
-    <lastmod>2020-08-20T12:14:21+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jefflinmd.com/categories/deep-learning/</loc>
-    <lastmod>2020-08-20T12:14:21+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jefflinmd.com/</loc>
-    <lastmod>2020-08-20T12:14:21+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jefflinmd.com/tags/machine-learning/</loc>
-    <lastmod>2020-08-20T12:14:21+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jefflinmd.com/categories/machine-learning/</loc>
-    <lastmod>2020-08-20T12:14:21+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jefflinmd.com/tags/r/</loc>
-    <lastmod>2020-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jefflinmd.com/categories/r/</loc>
-    <lastmod>2020-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jefflinmd.com/tags/</loc>
-    <lastmod>2020-08-20T12:14:21+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jefflinmd.com/course/bigdata/</loc>
-    <lastmod>2020-08-20T12:14:21+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jefflinmd.com/talk/2020-08-20-bigdata/</loc>
-    <lastmod>2020-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jefflinmd.com/talk/2020-08-20-clinicaltrial/</loc>
-    <lastmod>2020-08-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jefflinmd.com/post/</loc>
-    <lastmod>2020-08-17T12:45:36+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jefflinmd.com/post/2020-08-17-biaserror/</loc>
-    <lastmod>2020-08-17T12:45:36+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jefflinmd.com/post/2020-08-17-designtype/</loc>
-    <lastmod>2020-08-17T12:14:21+08:00</lastmod>
-  </url>
-  
   <url>
     <loc>https://jefflinmd.com/book/</loc>
-    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jefflinmd.com/</loc>
+    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jefflinmd.com/tags/r/</loc>
+    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jefflinmd.com/tags/software/</loc>
+    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jefflinmd.com/tags/</loc>
+    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jefflinmd.com/book/medstat/</loc>
+    <lastmod>2022-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jefflinmd.com/talk/</loc>
+    <lastmod>2020-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jefflinmd.com/tags/big-data-analysis/</loc>
+    <lastmod>2020-08-20T12:14:21+08:00</lastmod>
+  </url><url>
+    <loc>https://jefflinmd.com/categories/big-data-analysis/</loc>
+    <lastmod>2020-08-20T12:14:21+08:00</lastmod>
+  </url><url>
+    <loc>https://jefflinmd.com/tags/biostatistics/</loc>
+    <lastmod>2020-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jefflinmd.com/categories/biostatistics/</loc>
+    <lastmod>2020-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jefflinmd.com/categories/</loc>
+    <lastmod>2020-08-20T12:14:21+08:00</lastmod>
+  </url><url>
+    <loc>https://jefflinmd.com/tags/clinical-trial/</loc>
+    <lastmod>2020-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jefflinmd.com/categories/clinical-trial/</loc>
+    <lastmod>2020-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jefflinmd.com/course/</loc>
+    <lastmod>2020-08-20T12:14:21+08:00</lastmod>
+  </url><url>
+    <loc>https://jefflinmd.com/tags/data-mining/</loc>
+    <lastmod>2020-08-20T12:14:21+08:00</lastmod>
+  </url><url>
+    <loc>https://jefflinmd.com/categories/data-mining/</loc>
+    <lastmod>2020-08-20T12:14:21+08:00</lastmod>
+  </url><url>
+    <loc>https://jefflinmd.com/tags/deep-learning/</loc>
+    <lastmod>2020-08-20T12:14:21+08:00</lastmod>
+  </url><url>
+    <loc>https://jefflinmd.com/categories/deep-learning/</loc>
+    <lastmod>2020-08-20T12:14:21+08:00</lastmod>
+  </url><url>
+    <loc>https://jefflinmd.com/tags/machine-learning/</loc>
+    <lastmod>2020-08-20T12:14:21+08:00</lastmod>
+  </url><url>
+    <loc>https://jefflinmd.com/categories/machine-learning/</loc>
+    <lastmod>2020-08-20T12:14:21+08:00</lastmod>
+  </url><url>
+    <loc>https://jefflinmd.com/categories/r/</loc>
+    <lastmod>2020-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jefflinmd.com/course/bigdata/</loc>
+    <lastmod>2020-08-20T12:14:21+08:00</lastmod>
+  </url><url>
+    <loc>https://jefflinmd.com/talk/2020-08-20-bigdata/</loc>
+    <lastmod>2020-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jefflinmd.com/talk/2020-08-20-clinicaltrial/</loc>
+    <lastmod>2020-08-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://jefflinmd.com/post/</loc>
+    <lastmod>2020-08-17T12:45:36+08:00</lastmod>
+  </url><url>
+    <loc>https://jefflinmd.com/post/2020-08-17-biaserror/</loc>
+    <lastmod>2020-08-17T12:45:36+08:00</lastmod>
+  </url><url>
+    <loc>https://jefflinmd.com/post/2020-08-17-designtype/</loc>
+    <lastmod>2020-08-17T12:14:21+08:00</lastmod>
+  </url><url>
     <loc>https://jefflinmd.com/books/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jefflinmd.com/courses/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jefflinmd.com/book/rintro/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jefflinmd.com/tags/software/</loc>
-    <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jefflinmd.com/book/survival/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jefflinmd.com/book/regression/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jefflinmd.com/book/cate/</loc>
     <lastmod>2020-08-15T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jefflinmd.com/projects/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jefflinmd.com/about/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jefflinmd.com/resume/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jefflinmd.com/talks/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jefflinmd.com/license/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jefflinmd.com/authors/alison/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jefflinmd.com/authors/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jefflinmd.com/authors/admin/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jefflinmd.com/publication_types/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://jefflinmd.com/publication/</loc>
   </url>
-  
 </urlset>

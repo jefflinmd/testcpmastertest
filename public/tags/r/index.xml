@@ -5,12 +5,20 @@
     <link>https://jefflinmd.com/tags/r/</link>
       <atom:link href="https://jefflinmd.com/tags/r/index.xml" rel="self" type="application/rss+xml" />
     <description>R</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jeff Lin 2021</copyright><lastBuildDate>Thu, 20 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© Jeff Lin 2022</copyright><lastBuildDate>Tue, 15 Feb 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jefflinmd.com/images/icon_hubd7880285348c4660acc9402140a2483_242472_512x512_fill_lanczos_center_2.png</url>
+      <url>https://jefflinmd.com/images/icon_hubd7880285348c4660acc9402140a2483_242472_512x512_fill_lanczos_center_3.png</url>
       <title>R</title>
       <link>https://jefflinmd.com/tags/r/</link>
     </image>
+    
+    <item>
+      <title>醫學統計</title>
+      <link>https://jefflinmd.com/book/medstat/</link>
+      <pubDate>Tue, 15 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://jefflinmd.com/book/medstat/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>大數據分析, 機械學習, 資料採礦</title>

@@ -14,19 +14,19 @@ links:
 - icon: door-open
   icon_pack: fas
   name: 資料
-  url: 20210420CateBookDataPost.rar
+  url: 20220301_Categorical_Data_analysis_Book_Data.rar
 #  url: https://bakeoff.netlify.com/
 
-#- icon: r-project
-#  icon_pack: fab
-#  name: code
-#  url: 2020SurvBook2ndPostProgram.rar
+- icon: r-project
+  icon_pack: fab
+  name: code
+  url: 20220301_Categoircal_Data_Analysis_Book_Simple_R_Prog.rar
 #  url: https://github.com/apreshill/bakeoff
 
 - icon: fa-file-pdf
   icon_pack: fas
   name: TOC
-  url: 
+  url: 2020_0817_B5CateBookC00_TOC.pdf
 
 ---
 

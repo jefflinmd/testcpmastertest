@@ -103,7 +103,7 @@ machine learning 與 deep learning 可使用 Python, R, SAS, IBM-SPSS 等軟體.
 
 
 ### Unsupervised Learning
-* PCA (principal Components Analysis)
+* PCA (Principal Components Analysis)
 * Cluster Analysis
 * Basket Analysis and Association Analysis
 * Recommendation System
@@ -119,7 +119,7 @@ machine learning 與 deep learning 可使用 Python, R, SAS, IBM-SPSS 等軟體.
 * Robust Regression
 * Principal Component Regression (PCR)
 * Partial Least Square Regression (PLSR)
-* Discriminant  (LDA, QDA)
+* Discriminant Analysis (LDA, QDA)
 * Naive Bayes Classifier (NB)
 * k-Nearest Neighbor Classification (KNN)
 * Regression Tree and Classification Tree (Tree)

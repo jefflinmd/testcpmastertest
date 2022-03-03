@@ -14,12 +14,13 @@ links:
 - icon: door-open
   icon_pack: fas
   name: 資料
-  url: 2017RegBookDataPost.rar
+  url: 20220301_Regression_Analysis_Book_Data.rar 
+#  2017RegBookDataPost.rar
 #  url: https://bakeoff.netlify.com/
-# - icon: r-project
-#   icon_pack: fab
-#   name: code
-#  url: 20150131_2015B5RegBookC00_TOC.pdf
+- icon: r-project
+  icon_pack: fab
+  name: code
+  url: 20220301_Regression_Analysis_Book_Simple_R_Code.rar
 #  url: https://github.com/apreshill/bakeoff
 
 - icon: fa-file-pdf
