@@ -6,4 +6,4 @@ type: widget_page
 aliases: [bio]
 ---
 
-[2022-02-15 CV](20220215_EN_CV_ALL.pdf)   
+
