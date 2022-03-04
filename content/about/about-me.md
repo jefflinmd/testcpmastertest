@@ -52,8 +52,6 @@ subtitle = ""
 
 骨科/統計諮詢/研究/教學
 
-[Jeff Lin CV](20220215_EN_CV_ALL.pdf)
-
 My research interests include survival analysis, clinical trials, longitudinal data analysis, missing data analysis, bioinformatics, big data analysis and machine learning, medical cost-effective analysis, arthroplasty, robot assisted joint replacement.
 
 

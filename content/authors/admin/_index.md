@@ -44,8 +44,6 @@ user_groups:
 
 歡迎來到醫學與統計的世界!   
 
-[Jeff Lin CV](20220215_EN_CV_ALL.pdf)
-
 My research interests include survival analysis, clinical trials, longitudinal data analysis, missing data analysis, bioinformatics, big data analysis and machine learning, medical cost-effective analysis, arthroplasty, robot assisted joint replacement. 
 
 
